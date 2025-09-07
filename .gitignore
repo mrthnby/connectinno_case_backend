@@ -87,7 +87,7 @@ cython_debug/
 *.db
 
 # Firebase/Google credentials (keep secrets out of git)
-service_account_key.json
+# service_account_key.json
 firebase_credentials.json
 google-credentials.json
 credentials.json
